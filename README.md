@@ -1,1 +1,1 @@
-# coursework_assembly
+This repository contains various assembly programs created for college course assignments.

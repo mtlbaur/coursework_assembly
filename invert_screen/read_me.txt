@@ -1,0 +1,2 @@
+This program will invert the text contents of the command line window from left to right.
+It changes the color of numbers to red and letters to blue and prints a line of text and numbers in the center of the screen.
